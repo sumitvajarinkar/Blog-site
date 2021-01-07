@@ -1,2 +1,2 @@
 # Blog-site
-First time I tried Bootstrap.
+**Blog site deigned with Bootstrap.**
