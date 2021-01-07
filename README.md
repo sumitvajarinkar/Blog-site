@@ -1,2 +1,2 @@
 # Blog-site
-**Blog site deigned with Bootstrap.**
+**Blog site designed with Bootstrap.**
